@@ -10,6 +10,10 @@
   color: black; }
 }
 
+img{
+  max-width: 100%;
+  height: auto; }
+
 section {
   background-color: #eeeeee; }
 
@@ -411,9 +415,7 @@ nav .mbr-section-btn {
   .menu .navbar-brand .navbar-caption-wrap {
     display: -webkit-flex; }
   .menu .navbar-brand .navbar-logo img {
-    display: -webkit-flex;
-    max-width: 100%;
-    height: auto; }
+    display: -webkit-flex;}
 @media (min-width: 768px) and (max-width: 991px) {
   .menu .navbar-toggleable-sm .navbar-nav {
     display: -webkit-box;
