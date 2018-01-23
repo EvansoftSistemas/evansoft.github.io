@@ -1453,6 +1453,8 @@ body {
 }
 .cid-qGeq7qIVgP .menu-logo .navbar-brand .navbar-logo img {
   display: flex;
+  max-width: auto;
+  height: auto;
 }
 .cid-qGeq7qIVgP .menu-logo .navbar-brand .navbar-logo .mbr-iconfont {
   transition: font-size 0.25s;
